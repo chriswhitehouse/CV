@@ -1,6 +1,11 @@
-## Your Name
+## Chris Whitehouse
+I'm an aspiring junior full stack developer, looking to pivot from managerial, commercial and analytical roles in the energy sector to a top tier software consultancy.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Having built a career to date largely off the back of being 'good at excel', I can already demonstrate great, analytical, commercial, and managerial capabilities with a small dose of technical development work, and algorithmic thinking.
+
+With a recent investment in self-reflection, evaluating what I do and don't enjoy, I came to realise, much of what enjoyed most in the workplace was creative problem solving with technology. Working with others to solve complex technical challenges, and then implementing, with a strong sense of absorption or 'flow'. This, in tandem with my strong growth mindset and love of continuous learning, pointed towards a career in software developoment.
+
+And, extrinsically, when I look around at the digital disruption underway in many industries, it is those companies with technology ath their heart, who are winning.
 
 ## Projects
 
@@ -11,15 +16,33 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### Bristol Energy (Jun '16 to Oct '20)  
+#### Head of Propositions and Pricing
 
-- Any experience relevent to software development
+Leadership of pricing and product business functions, jointly accountable for optimising over £5m in annual gross margin, managing the growth of Bristol Energy from 10,000 to 100,000 residential customers, and from zero to 181GWh of energy supplied to business customers.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Established and managed the continual development of the pricing platform in SQL, VBA and Excel.
 
-- Any experience relevent to software development
+Responsible for the accurate and timely calculation, and publication, of over 1 million individual tariffs, across residential, business and PPA markets. Delivered through the ownership of pricing engines with iterative development cycles resulting in over 200 model updates and releases.
+
+Established new propositions function, driving agile cross functional working practices to support product discovery and delivery, and customer centred service design.
+
+Built the pricing and propositions teams, with the recruitment and line management responsibility of 3 FTE.
+
+[More detial on the systmes processes and mindsets of managing the technical pricing platform]
+
+### Centrica Energy (Dec '09 to May '16)
+#### Various Analytical Roles
+
+Responsible for the development and maintenance of a variety of commercial valuation models in Excel and VBA. Used to stear strategy and insight on the commercial management of gas power stations, and renewable assets.
+
+Detailed analysis of hedging strategies and risk quantification, able to translate large data sets into information, and clearly and concisely present actionable insight to senior business leaders.
+
+### Stagecoach Rail (Jan '05 to Sept '08)
+#### Financial Modeller
+
+Responsible for building financial models in excel and VBA, to support large rail franchise bids to the Department for Transport. Adhered to best practices of transparency, clarity, and simplicity. Ensuring quality with rigourous testing and modular development.
+
 
 ## Skills
 
@@ -42,23 +65,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov '20 to Feb '21)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Imperial College London (Sept '08 to Sept '09)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Sustainable Energy Futures MSc
+- Distinction
+- A course focused on the technical and policy solutions required to combat climate change
+
+#### University of Nottingham (Sept '99 to June '02)
+
+- Mathematics with Engineering BSc
+- 2:1
+- Applied mathematics course covering; Mathematical Modelling, Statistics, Computer Science, 
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- 2020: Product School: Certificate in Product Management
+- 2019: CMI Level 5 Certificate in Management and Leadership
+- 2019: Harvardx CS50:Introduction to Comupter Science
+- 2017: MITx Introduction to Computer Science and Programming with Python
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Outdoor enthusiast: running, cycling, sailing. Amateur blogger: https://chriswhitehouse.medium.com/
