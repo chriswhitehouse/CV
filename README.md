@@ -96,7 +96,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Mathematics with Engineering BSc
 - 2:1
-- Applied mathematics course covering; Mathematical Modelling, Statistics, Computer Science, 
+- Applied mathematics course covering; Mathematical Modelling, Statistics, Computer Science
 
 #### Any other qualifications
 
