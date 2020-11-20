@@ -1,11 +1,11 @@
 ## Chris Whitehouse
 I'm an aspiring junior full stack developer, looking to pivot from managerial, commercial and analytical roles in the energy sector to a top tier software consultancy.
 
-Having built a career to date largely off the back of being 'good at excel', I can already demonstrate great, analytical, commercial, and managerial capabilities with a small dose of technical development work, and algorithmic thinking.
+Having built a career to date largely off the back of being 'good at excel', I can already demonstrate great analytical, commercial, and managerial capabilities with a small dose of technical development work, and algorithmic thinking.
 
-With a recent investment in self-reflection, evaluating what I do and don't enjoy, I came to realise, much of what enjoyed most in the workplace was creative problem solving with technology. Working with others to solve complex technical challenges, and then implementing, with a strong sense of absorption or 'flow'. This, in tandem with my strong growth mindset and love of continuous learning, pointed towards a career in software developoment.
+With a recent investment in self-reflection, intrinsically evaluating what I do and don't enjoy, I came to realise, much of what I draw most satisfaction from in the workplace was creative problem solving with technology. Working with others to solve complex technical challenges, and then implementing, with a strong sense of absorption or 'flow'. This, in tandem with my growth mindset and love of continuous learning, pointed towards a career in software developoment.
 
-And, extrinsically, when I look around at the digital disruption underway in many industries, it is those companies with technology ath their heart, who are winning.
+Extrinsically, when I look around at the digital disruption underway in many industries, it is those companies with technology at their heart, who are innovating, challenging the status quo, and ultimately winning. I want to be on the right side of the exciting seismic shifts that are happening, and emabrace technology as a solution to many of the worlds problems.
 
 ## Projects
 
@@ -21,15 +21,13 @@ And, extrinsically, when I look around at the digital disruption underway in man
 
 Leadership of pricing and product business functions, jointly accountable for optimising over £5m in annual gross margin, managing the growth of Bristol Energy from 10,000 to 100,000 residential customers, and from zero to 181GWh of energy supplied to business customers.
 
-Established and managed the continual development of the pricing platform in SQL, VBA and Excel.
-
 Responsible for the accurate and timely calculation, and publication, of over 1 million individual tariffs, across residential, business and PPA markets. Delivered through the ownership of pricing engines with iterative development cycles resulting in over 200 model updates and releases.
+
+Established and managed the continual development of the pricing platform in SQL, VBA and Excel. Implementing best practice quality assurance and testing processes, working closely with pricing analalyst to develop and deliver feature updates, ensuring accuracy and robustness on deployment.
 
 Established new propositions function, driving agile cross functional working practices to support product discovery and delivery, and customer centred service design.
 
 Built the pricing and propositions teams, with the recruitment and line management responsibility of 3 FTE.
-
-[More detial on the systmes processes and mindsets of managing the technical pricing platform]
 
 ### Centrica Energy (Dec '09 to May '16)
 #### Various Analytical Roles
@@ -48,13 +46,13 @@ Responsible for building financial models in excel and VBA, to support large rai
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Algoirthmic Thinking
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Communication and Team Working
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -62,6 +60,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Process and Systems Thinking
+
+- Experience
+- Achievements
+- Evidence
+
+#### Analysis and Insight
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 
 ## Education
 
