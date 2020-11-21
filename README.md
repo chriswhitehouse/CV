@@ -7,6 +7,10 @@ With a recent investment in self-reflection, intrinsically evaluating what I do 
 
 Extrinsically, when I look around at the digital disruption underway in many industries, it is those companies with technology at their heart, who are innovating, challenging the status quo, and ultimately winning. I want to be on the right side of the exciting seismic shifts that are happening, and emabrace technology as a solution to many of the worlds problems.
 
+Values: integrity, growth, discipline, connection, health, progress
+
+Behaviours: inquisitive, questioning, conscientious, coaching, friendly, focus
+
 ## Projects
 >>>> to complete during course >>>>>>
 | Name                         | Description       | Tech/tools        |
@@ -46,7 +50,7 @@ Responsible for building financial models in excel and VBA, to support large rai
 
 [Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.] << to delete
 
-#### Algoirthmic Thinking
+#### Critical Thinking
 
 >>>> to complete >>>>[Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.]
 
