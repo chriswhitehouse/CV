@@ -62,27 +62,11 @@ As I've grown throughout my career, the importance of communication for great te
 
 #### Process and Systems Thinking
 
+My ability to think through a system or process, idnetify weak links, and improve and refine accordinly has proven envaluable on many occasions. However, a notable example for which I am proud of, it the implementation of an agile proposition delivery practice whilst at Bristol Energy.
 
+I identified that the new proposition and delivery process was broken. We were building from the inside out, without sufficinent regard to customer needs, poor prioritization of development, and with bottlenecks, particulalrly in the technical implementation. To solve this, I implemented an agile delivery process, starting with customer discovery, feeding into a backlog, with regular socliasiation, and prioritisation, before cross functional development and delivery.
 
->>>> to complete >>>>[Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.]
-
-[- I achieved A during my work at B (job, or otherwise)]
-[- I contributed to the growth of X while doing Y (job, or otherwise)]
-[- I built this, made this, broke this, fixed this, etc.]
-[- A link to some on-line evidence (blogs, videos, articles, etc.)]
-
-
-
-#### Analysis and Insight
-
->>>> to complete >>>>[Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.]
-
-[- I achieved A during my work at B (job, or otherwise)]
-[- I contributed to the growth of X while doing Y (job, or otherwise)]
-[- I built this, made this, broke this, fixed this, etc.]
-[- A link to some on-line evidence (blogs, videos, articles, etc.)]
-
-
+Enabling a full proposition refresh of green energy propositions.
 
 ## Education
 
