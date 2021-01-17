@@ -12,7 +12,7 @@ Values: integrity, growth, discipline, connection, health, progress
 Behaviours: inquisitive, conscientious, coaching, friendly, focused
 
 ## Projects
->>>> to complete during course >>>>>>
+
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Chitter**           | A twitter clone, completed individually| Ruby, Rspec, Sinatra, PostgreSQL |
