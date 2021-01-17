@@ -58,17 +58,11 @@ I have applied this skill in a braod range of scopes; from techncial challenges 
 
 #### Communication and Team Working
 
-
-
->>>> to complete >>>>[Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.]
-
-[- I achieved A during my work at B (job, or otherwise)]
-[- I contributed to the growth of X while doing Y (job, or otherwise)]
-[- I built this, made this, broke this, fixed this, etc.]
-[- A link to some on-line evidence (blogs, videos, articles, etc.)]
-
+As I've grown throughout my career, the importance of communication for great teamwork, has become increasingly clear to me. Whether that's as an analyst, with the ability to succintly communcate upwards business insight, or as a manager with the ability to listen, understand, and guide, or as a team member, willing to support a team mate. I have particpated, contributed and built small teams.   
 
 #### Process and Systems Thinking
+
+
 
 >>>> to complete >>>>[Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.]
 
