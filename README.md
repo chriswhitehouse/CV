@@ -1,22 +1,23 @@
 ## Chris Whitehouse
-I'm an aspiring junior full stack developer, looking to pivot from managerial, commercial and analytical roles in the energy sector to a top tier software consultancy.
+I'm an aspiring software developer, looking to pivot from managerial, commercial and analytical roles in the energy sector to a software consultancy.
 
 Having built a career to date largely off the back of being 'good at excel', I can already demonstrate great analytical, commercial, and managerial capabilities with a small dose of technical development work, and algorithmic thinking.
 
-With a recent investment in self-reflection, intrinsically evaluating what I do and don't enjoy, I came to realise, much of what I draw most satisfaction from in the workplace was creative problem solving with technology. Working with others to solve complex technical challenges, and then implementing, with a strong sense of absorption or 'flow'. This, in tandem with my growth mindset and love of continuous learning, pointed towards a career in software developoment.
+With a recent investment in self-reflection, intrinsically evaluating what I do and don't enjoy, I came to realise, much of what I draw most satisfaction from in the workplace is creative problem solving with technology. Working with others to solve complex technical challenges, and then implementing, with a strong sense of absorption or 'flow'. This, in tandem with my growth mindset and love of continuous learning, pointed towards a career in software developoment.
 
-Extrinsically, when I look around at the digital disruption underway in many industries, it is those companies with technology at their heart, who are innovating, challenging the status quo, and ultimately winning. I want to be on the right side of the exciting seismic shifts that are happening, and emabrace technology as a solution to many of the worlds problems.
+Extrinsically, when I look around at the most innovative companies, those solving the most interesting problems, it is the companies who have technoclogy at their heart. It is these companies, that I want to work. To lend my enthusiasm, and dedication, to solving complex challenges with technologuy.
 
 Values: integrity, growth, discipline, connection, health, progress
 
-Behaviours: inquisitive, questioning, conscientious, coaching, friendly, focus
+Behaviours: inquisitive, conscientious, coaching, friendly, focused
 
 ## Projects
 >>>> to complete during course >>>>>>
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Chitter**           | A twitter clone, completed individually| Ruby, Rspec, Sinatra, PostgreSQL |
+| **Makers BnB** | An AirBnB clone, completed as part of a team | Ruby, Rspec, Sinatra, PostgreSQL |
+| **Terhmostat** | A client side thermostat app | JavaScript, jQuery, Jasmine |
 
 ## Experience
 
@@ -48,18 +49,16 @@ Responsible for building financial models in excel and VBA, to support large rai
 
 ## Skills
 
-[Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.] << to delete
-
 #### Critical Thinking
 
->>>> to complete >>>>[Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.]
+Critical thinking is my core competence, and the skill I have leaned on most heavily throughout my academic studies, and career to date. The ability to deconstruct a problem, understand, and evaluate the constituent parts, and then think logically and clearly, to arrive at potential solutions.
 
-[- I achieved A during my work at B (job, or otherwise)]
-[- I contributed to the growth of X while doing Y (job, or otherwise)]
-[- I built this, made this, broke this, fixed this, etc.]
-[- A link to some on-line evidence (blogs, videos, articles, etc.)]
+I have applied this skill in a braod range of scopes; from techncial challenges such as evaluating the best way to caluclate a price or valuation, through to commerical strategy review, and even human centred challenges focused on getting the best out of a team. 
+
 
 #### Communication and Team Working
+
+
 
 >>>> to complete >>>>[Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.]
 
@@ -112,7 +111,7 @@ Responsible for building financial models in excel and VBA, to support large rai
 - 2:1
 - Applied mathematics course covering; Mathematical Modelling, Statistics, Computer Science
 
-#### Any other qualifications
+#### Other qualifications
 
 - 2020: Product School: Certificate in Product Management
 - 2019: CMI Level 5 Certificate in Management and Leadership
