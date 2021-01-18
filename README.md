@@ -44,7 +44,7 @@ Detailed analysis of hedging strategies and risk quantification, able to transla
 ### Stagecoach Rail (Jan '05 to Sept '08)
 #### Financial Modeller
 
-Responsible for building financial models in excel and VBA, to support large rail franchise bids to the Department for Transport. Adhered to best practices of transparency, clarity, and simplicity. Ensuring quality with rigourous testing and modular development.
+Responsible for building financial models in excel and VBA, to support large rail franchise bids to the Department for Transport. Adhered to best practices of transparency, clarity, and simplicity. Ensuring quality with rigorous testing and modular development.
 
 
 ## Skills
