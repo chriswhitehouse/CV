@@ -28,7 +28,7 @@ Leadership of pricing and product business functions, jointly accountable for op
 
 Responsible for the accurate and timely calculation, and publication, of over 1 million individual tariffs, across residential, business and PPA markets. Delivered through the ownership of pricing engines with iterative development cycles resulting in over 200 model updates and releases.
 
-Established and managed the continual development of the pricing platform in SQL, VBA and Excel. Implementing best practice quality assurance and testing processes, working closely with pricing analalyst to develop and deliver feature updates, ensuring accuracy and robustness on deployment.
+Established and managed the continual development of the pricing platform in SQL, VBA and Excel. Implementing best practice quality assurance and testing processes, working closely with pricing analyst to develop and deliver feature updates, ensuring accuracy and robustness on deployment.
 
 Established new propositions function, driving agile cross functional working practices to support product discovery and delivery, and customer centred service design.
 
