@@ -53,18 +53,18 @@ Responsible for building financial models in excel and VBA, to support large rai
 
 Critical thinking is my core competence, and the skill I have leaned on most heavily throughout my academic studies, and career to date. The ability to deconstruct a problem, understand, and evaluate the constituent parts, and then think logically and clearly, to arrive at potential solutions.
 
-I have applied this skill in a braod range of scopes; from techncial challenges such as evaluating the best way to caluclate a price or valuation, through to commerical strategy review, and even human centred challenges focused on getting the best out of a team. 
+I have applied this skill in a broad range of scopes; from technical challenges such as evaluating the best way to calculate a price or valuation, through to commercial strategy review, and even human centred challenges focused on getting the best out of a team.
 
 
 #### Communication and Team Working
 
-As I've grown throughout my career, the importance of communication for great teamwork, has become increasingly clear to me. Whether that's as an analyst, with the ability to succintly communcate upwards business insight, or as a manager with the ability to listen, understand, and guide, or as a team member, willing to support a team mate. I have particpated, contributed and built small teams.   
+As I've grown throughout my career, the importance of communication for great teamwork has become increasingly clear to me. Whether that's as an analyst, with the ability to succinctly communicate upwards business insight, or as a manager with the ability to listen, understand, and guide, or as a team member, willing to support a team mate. I have participated, contributed and built small teams.
 
 #### Process and Systems Thinking
 
-My ability to think through a system or process, idnetify weak links, and improve and refine accordinly has proven envaluable on many occasions. However, a notable example for which I am proud of, it the implementation of an agile proposition delivery practice whilst at Bristol Energy.
+My ability to think through a system or process, identify weak links, and improve and refine accordingly has proven invaluable on many occasions. However, a notable example for which I am proud of, is the implementation of an agile proposition delivery practice whilst at Bristol Energy.
 
-I identified that the new proposition and delivery process was broken. We were building from the inside out, without sufficinent regard to customer needs, poor prioritization of development, and with bottlenecks, particulalrly in the technical implementation. To solve this, I implemented an agile delivery process, starting with customer discovery, feeding into a backlog, with regular socliasiation, and prioritisation, before cross functional development and delivery.
+I identified that the new proposition and delivery process was broken. We were building from the inside out, without sufficient regard to customer needs, poor prioritization of development, and with bottlenecks, particularly in the technical implementation. To solve this, I implemented an agile delivery process, starting with customer discovery, feeding into a backlog, with regular socialisation, and prioritisation, before cross functional development and delivery.
 
 Enabling a full proposition refresh of green energy propositions.
 
