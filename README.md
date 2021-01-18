@@ -37,7 +37,7 @@ Built the pricing and propositions teams, with the recruitment and line manageme
 ### Centrica Energy (Dec '09 to May '16)
 #### Various Analytical Roles
 
-Responsible for the development and maintenance of a variety of commercial valuation models in Excel and VBA. Used to stear strategy and insight on the commercial management of gas power stations, and renewable assets.
+Responsible for the development and maintenance of a variety of commercial valuation models in Excel and VBA. Used to steer strategy and insight on the commercial management of gas power stations, and renewable assets.
 
 Detailed analysis of hedging strategies and risk quantification, able to translate large data sets into information, and clearly and concisely present actionable insight to senior business leaders.
 
