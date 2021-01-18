@@ -3,9 +3,9 @@ I'm an aspiring software developer, looking to pivot from managerial, commercial
 
 Having built a career to date largely off the back of being 'good at excel', I can already demonstrate great analytical, commercial, and managerial capabilities with a small dose of technical development work, and algorithmic thinking.
 
-With a recent investment in self-reflection, intrinsically evaluating what I do and don't enjoy, I came to realise, much of what I draw most satisfaction from in the workplace is creative problem solving with technology. Working with others to solve complex technical challenges, and then implementing, with a strong sense of absorption or 'flow'. This, in tandem with my growth mindset and love of continuous learning, pointed towards a career in software developoment.
+With a recent investment in self-reflection, intrinsically evaluating what I do and don't enjoy, I came to realise, much of what I draw most satisfaction from in the workplace is creative problem solving with technology. Working with others to solve complex technical challenges, and then implementing, with a strong sense of absorption or 'flow'. This, in tandem with my growth mindset and love of continuous learning, pointed towards a career in software development.
 
-Extrinsically, when I look around at the most innovative companies, those solving the most interesting problems, it is the companies who have technoclogy at their heart. It is these companies, that I want to work. To lend my enthusiasm, and dedication, to solving complex challenges with technologuy.
+Extrinsically, when I look around at the most innovative companies, those solving the most interesting problems, it is the companies who have technology at their heart. It is these companies, that I want to work. To lend my enthusiasm, and dedication, to solving complex challenges with technology.
 
 Values: integrity, growth, discipline, connection, health, progress
 
@@ -17,7 +17,7 @@ Behaviours: inquisitive, conscientious, coaching, friendly, focused
 | ---------------------------- | ----------------- | ----------------- |
 | **Chitter**           | A twitter clone, completed individually| Ruby, Rspec, Sinatra, PostgreSQL |
 | **Makers BnB** | An AirBnB clone, completed as part of a team | Ruby, Rspec, Sinatra, PostgreSQL |
-| **Terhmostat** | A client side thermostat app | JavaScript, jQuery, Jasmine |
+| **Thermostat** | A client side thermostat app | JavaScript, jQuery, Jasmine |
 
 ## Experience
 
