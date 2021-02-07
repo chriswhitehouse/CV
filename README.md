@@ -70,7 +70,7 @@ EXPERIENCE
 *   Responsible for the accurate and timely calculation, and publication, of over 1 million individual tariffs, across residential, business and renewable energy markets. Delivered through the ownership of pricing engines with iterative development cycles resulting in over 200 model updates and releases.
 *   Established and managed the continual development of the pricing platform in SQL, VBA and Excel. Implementing best practice quality assurance and testing processes, working closely with pricing analysts to develop and deliver feature updates, ensuring accuracy and robustness on deployment.
 *   Established new propositions function, driving agile cross functional working practices to support product discovery and delivery, and customer centred service design.
-*   Built the pricing and propositions teams, with the recruitment and line management responsibility of 3 FTE. \
+*   Built the pricing and propositions teams, with the recruitment and line management responsibility of 3 FTE. 
 
 
 
