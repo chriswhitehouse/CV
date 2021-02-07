@@ -1,49 +1,14 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.675 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Sun Feb 07 2021 10:10:53 GMT-0800 (PST)
-* Source doc: Chris Whitehouse CV 
-* Tables are currently converted to HTML tables.
-
-WARNING:
-You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 
 # Chris Whitehouse  
 
 
-# 22 Lullington Road, Bristol, BS4 2LH | [chris_whitehouse@hotmail.com](mailto:chris_whitehouse@hotmail.com)  | +44 (0)7745 100 951 | [GitHub](https://github.com/chriswhitehouse) 
+## 22 Lullington Road, Bristol, BS4 2LH | [chris_whitehouse@hotmail.com](mailto:chris_whitehouse@hotmail.com)  | +44 (0)7745 100 951 | [GitHub](https://github.com/chriswhitehouse) 
 
 
 ## I am a software developer at the beginning of a new career, seeking to pivot from managerial, commercial and analytical roles in the energy sector to a software consultancy. Motivated by solving complex problems with technology, I am also adept at clear communication, and working in, and managing teams.
 
 
-# _ \
+##
 TECHNICAL PROJECTS_
 
 
@@ -84,11 +49,11 @@ TECHNICAL PROJECTS_
 
 
 
-# _ \
+##
 EXPERIENCE_
 
 
-## Software Development Student | Makers Academy, London 		 	        Nov 2020 - Feb 2021
+### Software Development Student | Makers Academy, London 		 	        Nov 2020 - Feb 2021
 
 
 
@@ -97,7 +62,7 @@ EXPERIENCE_
 *   Languages and frameworks: Ruby, RSpec, Sinatra, Capybara, JavaScript and Jasmine
 
 
-## Head of Propositions & Pricing | Bristol Energy  	_				        _Jun 2016 - Oct 2020
+### Head of Propositions & Pricing | Bristol Energy  	_				        _Jun 2016 - Oct 2020
 
 
 
@@ -109,7 +74,7 @@ EXPERIENCE_
 
 
 
-## Various Analytical and Commercial Roles_ | _Centrica	    	 		        Oct 2009 - May 2016
+### Various Analytical and Commercial Roles_ | _Centrica	    	 		        Oct 2009 - May 2016
 
 
 
@@ -117,7 +82,7 @@ EXPERIENCE_
 *   Detailed analysis of hedging strategies and risk quantification, able to translate large data sets into information, and clearly and concisely present actionable insight to senior business leaders.
 
 
-## **Financial Modeller | **Stagecoach Rail - Business Development 				           2005 - 2008
+### **Financial Modeller | **Stagecoach Rail - Business Development 				           2005 - 2008
 
 
 
@@ -127,25 +92,25 @@ EXPERIENCE_
 **Trainee Actuary** | Hewitt Bacon & Woodrow - Pensions 				          	           2002 - 2005
 
 
-# _EDUCATION_
+## _EDUCATION_
 
 
-## MSc Sustainable Energy Futures (Distinction) | Imperial College London 	        Sep 2008 - Aug 2009
+### MSc Sustainable Energy Futures (Distinction) | Imperial College London 	        Sep 2008 - Aug 2009
 
 - A course focused on the technical and policy solutions required to combat climate change
 
 
-## BSc Mathematics with Engineering (2:1) | University of Nottingham 		        Sep 1999 - Jun 2002
+### BSc Mathematics with Engineering (2:1) | University of Nottingham 		        Sep 1999 - Jun 2002
 
 - Applied mathematics course covering; Mathematical Modelling, Statistics, Computer Science
 
 
-## A Levels: Maths (A), Physics (A) and Geography (C) | Felixstowe Sixth Form 	        Sep 1997 - Jun 1999
+### A Levels: Maths (A), Physics (A) and Geography (C) | Felixstowe Sixth Form 	        Sep 1997 - Jun 1999
 
 **GCSEs: 9 grades A*-C including English and Maths** | Deben High School	          Sep 1992 - Jun 1997
 
 
-# _ \
+## _ \
 ADDITIONAL QUALIFICATIONS _
 
 **Product Management Certificate** | Product School, London			           		          2020
