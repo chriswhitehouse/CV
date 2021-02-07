@@ -5,7 +5,7 @@
 ### 22 Lullington Road, Bristol, BS4 2LH | [chris_whitehouse@hotmail.com](mailto:chris_whitehouse@hotmail.com)  | +44 (0)7745 100 951 | [GitHub](https://github.com/chriswhitehouse) 
 
 
-### am a software developer at the beginning of a new career, seeking to pivot from managerial, commercial and analytical roles in the energy sector to a software consultancy. Motivated by solving complex problems with technology, I am also adept at clear communication, and working in, and managing teams.
+### I am a software developer at the beginning of a new career, seeking to pivot from managerial, commercial and analytical roles in the energy sector to a software consultancy. Motivated by solving complex problems with technology, I am also adept at clear communication, and working in, and managing teams.
 
 
 ##
@@ -22,27 +22,27 @@ TECHNICAL PROJECTS
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/chriswhitehouse/chitter-challenge">Chitter</a>
+   <td><a href="https://github.com/kikidawson/notes_app">Notebook</a>
    </td>
-   <td>A Twitter clone, completed individually
+   <td>A simple single page notes application completed as a team
    </td>
-   <td>Ruby, Rspec, Sinatra, PostgreSQL
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/chriswhitehouse/MakersBnB">MakersBnB</a>
-   </td>
-   <td>An AirBnB clone, completed as part of a team
-   </td>
-   <td>Ruby, Rspec, Sinatra, PostgreSQL
+   <td>Javascript, CSS, HTML
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/chriswhitehouse/thermostat">Thermostat</a>
+   <td><a href="https://github.com/sujee09/acebook-akers-cademy">Acebook</a>
    </td>
-   <td>A client side thermostat app
+   <td>A Facebook clone, completed as part of a team
    </td>
-   <td>JavaScript, jQuery, Jasmine 
+   <td>Ruby, Rspec, Rails, PostgreSQL, React
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/chriswhitehouse/instagram-challenge">Instagram</a>
+   </td>
+   <td>An Instagram clone, completed individually
+   </td>
+   <td>Ruby on Rails, Rspec, PostgreSQL
    </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ EXPERIENCE
 
 
 
-*   Responsible for building financial models in Excel and VBA, to support large rail franchise bids to the Department for Transport. Adhered to best practices of transparency, clarity, and simplicity. Ensuring quality with rigorous testing and modular development. \
+*   Responsible for building financial models in Excel and VBA, to support large rail franchise bids to the Department for Transport. Adhered to best practices of transparency, clarity, and simplicity. Ensuring quality with rigorous testing and modular development. 
 
 
 ### Trainee Actuary | Hewitt Bacon & Woodrow - Pensions 				          	           2002 - 2005
