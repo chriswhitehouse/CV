@@ -118,7 +118,7 @@ EXPERIENCE
 
 **CS50: Introduction to Computer Science - Verified Certificate** | HarvardX 			          2018
 
-**Introduction to Computer Science and Programming in Python | **MITx			          2017
+**Introduction to Computer Science and Programming in Python** | MITx			          2017
 
 ## OTHER INTERESTS
 
