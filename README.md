@@ -22,11 +22,19 @@ TECHNICAL PROJECTS
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/kikidawson/notes_app">Notebook</a>
+   <td><a href="https://github.com/chriswhitehouse/book_swap">Book Swap</a>
    </td>
-   <td>A simple single page notes application completed as a team
+   <td>A community booksharing application, built as a team, utilizing TDD, and Agile best practices.
    </td>
-   <td>Javascript, CSS, HTML
+   <td>Bootstrap, React, Express, Node.js and Mongodb. With Cypress, Enzyme, and Moch-Chai testing frameworks.
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/chriswhitehouse/bank_tech_test">Bank Tech Test</a>
+   </td>
+   <td>Individual completion of an example tech test, focusing on high quality code.
+   </td>
+   <td>Ruby, Rspec testing framework.
    </td>
   </tr>
   <tr>
@@ -38,13 +46,6 @@ TECHNICAL PROJECTS
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/chriswhitehouse/instagram-challenge">Instagram</a>
-   </td>
-   <td>An Instagram clone, completed individually
-   </td>
-   <td>Ruby on Rails, Rspec, PostgreSQL
-   </td>
-  </tr>
 </table>
 
 
@@ -59,7 +60,7 @@ EXPERIENCE
 
 *   A strong focus on how to build robust, clean code adhering to SOLID design patterns, regardless of technology stack. Particular emphasis on Object Oriented Programming and Test Driven Development, through consistent pair programming and group working.
 *   Alongside technical capabilities, emphasis is placed on software development best practices, working in Agile methodologies whilst maintaining Extreme Programming rules and values.
-*   Languages and frameworks: Ruby, RSpec, Sinatra, Capybara, JavaScript and Jasmine
+*   Languages and frameworks: React, Express, Node.js, Mongodb, Cypress, Jest, Ruby, RSpec, Sinatra, Capybara, JavaScript and Jasmine
 
 
 ### Head of Propositions & Pricing | Bristol Energy  				        Jun 2016 - Oct 2020
