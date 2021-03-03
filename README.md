@@ -26,7 +26,7 @@ TECHNICAL PROJECTS
    </td>
    <td>A community booksharing application, built as a team, utilizing TDD, and Agile best practices.
    </td>
-   <td>Bootstrap, React, Express, Node.js and Mongodb. With Cypress, Enzyme, and Moch-Chai testing frameworks.
+   <td>Rest APIs, Bootstrap, React, Express, Node.js and Mongodb. With Cypress, Enzyme, and Moch-Chai testing frameworks.
    </td>
   </tr>
   <tr>
@@ -60,7 +60,9 @@ EXPERIENCE
 
 *   A strong focus on how to build robust, clean code adhering to SOLID design patterns, regardless of technology stack. Particular emphasis on Object Oriented Programming and Test Driven Development, through consistent pair programming and group working.
 *   Alongside technical capabilities, emphasis is placed on software development best practices, working in Agile methodologies whilst maintaining Extreme Programming rules and values.
-*   Languages and frameworks: React, Express, Node.js, Mongodb, Cypress, Jest, Ruby, RSpec, Sinatra, Capybara, JavaScript and Jasmine
+*   Design Principles: OOP, TDD, MVC, DDD, REST API
+*   Languages and frameworks: React, Express, Node.js, Mongodb,  Ruby, and JavaScript 
+*   Testing frameworks: Cypress, Jest, RSpec, Sinatra, Capybara, and Jasmine
 
 
 ### Head of Propositions & Pricing | Bristol Energy  				        Jun 2016 - Oct 2020
