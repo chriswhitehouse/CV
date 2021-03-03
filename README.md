@@ -5,7 +5,7 @@
 #### 22 Lullington Road, Bristol, BS4 2LH | [chris_whitehouse@hotmail.com](mailto:chris_whitehouse@hotmail.com)  | +44 (0)7745 100 951 | [GitHub](https://github.com/chriswhitehouse) 
 
 
-### I am a software developer at the beginning of a new career, seeking to pivot from managerial, commercial and analytical roles in the energy sector to a software consultancy. Motivated by solving complex problems with technology, I am also adept at clear communication, and working in, and managing teams.
+#### I am a software developer at the beginning of a new career, seeking to pivot from managerial, commercial and analytical roles in the energy sector to a software consultancy. Motivated by solving complex problems with technology, I am also adept at clear communication, and working in, and managing teams.
 
 
 ##
