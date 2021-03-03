@@ -58,7 +58,7 @@ EXPERIENCE
 
 
 
-*   A strong focus on how to build robust, clean code adhering to SOLID design patterns, regardless of technology stack. Particular emphasis on Object Oriented Programming and Test Driven Development, through consistent pair programming and group working.
+*   A strong focus on how to build robust, clean code adhering to design patterns, regardless of technology stack. Particular emphasis on Object Oriented Programming and Test Driven Development, through consistent pair programming and group working.
 *   Alongside technical capabilities, emphasis is placed on software development best practices, working in Agile methodologies whilst maintaining Extreme Programming rules and values.
 *   Design Principles: OOP, TDD, MVC, DDD, REST API
 *   Integrations and deployment: CI/CD with Travis and Heroku
