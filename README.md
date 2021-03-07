@@ -117,6 +117,6 @@ EXPERIENCE
 
 ## OTHER INTERESTS
 
-I am an outdoor enthusiast, enjoying; cycling, running, surfing, and sailing but occasionally head indoors to swim, rock climb, and teach myself to code.
+I am an outdoor enthusiast, enjoying; cycling, running, surfing, and sailing but occasionally head indoors to swim, rock climb, and code!
 
 _References on request_.
