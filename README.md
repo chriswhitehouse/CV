@@ -126,10 +126,10 @@ EXPERIENCE
 
 ## VOLUNTEERING
 
-* Codebar: Coach - codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech.
+Codebar: Coach - codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech.
 
 ## OTHER INTERESTS
 
-* I am an outdoor enthusiast; cycling, running, surfing, sailing, but occasionally head indoors to code!
+I am an outdoor enthusiast; cycling, running, surfing, sailing, but occasionally head indoors to code!
 
 _References on request_.
